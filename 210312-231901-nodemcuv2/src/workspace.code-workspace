@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\Desktop\\C\\maopaopaixu3 -1"
+		},
+		{
+			"name": "210312-231901-nodemcuv2",
+			"path": ".."
+		},
+		{
+			"name": "210307-202724-nodemcuv2",
+			"path": "..\\..\\210307-202724-nodemcuv2"
+		}
+	],
+	"settings": {
+		"files.defaultLanguage": "c",
+		"git.ignoreLimitWarning": true
+	}
+}

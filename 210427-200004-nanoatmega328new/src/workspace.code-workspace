@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "210427-200004-nanoatmega328new",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"files.associations": {
+			"array": "cpp",
+			"deque": "cpp",
+			"list": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"initializer_list": "cpp"
+		}
+	}
+}

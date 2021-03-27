@@ -1,0 +1,34 @@
+// AUTOMATICALLY GENERATED FILE. PLEASE DO NOT MODIFY IT MANUALLY
+
+// PIO Unified Debugger
+//
+// Documentation: https://docs.platformio.org/page/plus/debugging.html
+// Configuration: https://docs.platformio.org/page/projectconf/section_env_debug.html
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "platformio-debug",
+            "request": "launch",
+            "name": "PIO Debug",
+            "executable": "C:/Users/Administrator/Documents/PlatformIO/Projects/210306-194234-arduino-wifiscan/.pio/build/esp01/firmware.elf",
+            "projectEnvName": "esp01",
+            "toolchainBinDir": "C:/Users/Administrator/.platformio/packages/toolchain-xtensa/bin",
+            "preLaunchTask": {
+                "type": "PlatformIO",
+                "task": "Pre-Debug (esp01)"
+            },
+            "internalConsoleOptions": "openOnSessionStart"
+        },
+        {
+            "type": "platformio-debug",
+            "request": "launch",
+            "name": "PIO Debug (skip Pre-Debug)",
+            "executable": "C:/Users/Administrator/Documents/PlatformIO/Projects/210306-194234-arduino-wifiscan/.pio/build/esp01/firmware.elf",
+            "projectEnvName": "esp01",
+            "toolchainBinDir": "C:/Users/Administrator/.platformio/packages/toolchain-xtensa/bin",
+            "internalConsoleOptions": "openOnSessionStart"
+        }
+    ]
+}

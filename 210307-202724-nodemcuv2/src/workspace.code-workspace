@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "210307-202724-nodemcuv2",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"less.lint.propertyIgnoredDueToDisplay": "ignore"
+	}
+}

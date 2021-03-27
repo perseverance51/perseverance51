@@ -1,0 +1,41 @@
+{
+    "configurations": [
+        {
+            "name": "Arduino",
+            "includePath": [
+                "C:\\Users\\Administrator\\Documents\\Arduino\\libraries\\ESP8266_and_ESP32_OLED_driver_for_SSD1306_displays\\src",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\CustomWiFiManager",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\CustomWiFiManager\\**",
+                "C:\\Users\\Administrator\\Documents\\Arduino\\libraries\\**",
+                "C:\\Users\\Administrator\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.4\\libraries\\**",
+                "C:\\Users\\Administrator\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.4\\libraries\\ESP8266WiFi\\**",
+                "C:\\Users\\Administrator\\Documents\\Arduino\\libraries\\U8g2\\src",
+                "C:\\Users\\Administrator\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.4\\libraries\\DNSServer\\**",
+                "C:\\Users\\Administrator\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.4\\libraries\\DNSServer\\src",
+                "C:\\Users\\Administrator\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.4\\libraries\\Wire",
+                "C:\\Users\\Administrator\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.4\\libraries\\EEPROM",
+                "C:\\Users\\Administrator\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\xtensa-lx106-elf-gcc\\",
+                "C:\\Users\\Administrator\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.4\\libraries\\ESP8266HTTPClient\\src",
+                "C:\\Users\\Administrator\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.4\\libraries\\ESP8266HTTPClient\\**",
+                "C:\\Users\\Administrator\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.4\\libraries\\ESP8266WiFi\\src\\include\\**",
+                "C:\\Users\\Administrator\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.4\\libraries\\ESP8266WebServer",
+                "C:\\Users\\Administrator\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
+                "C:\\Users\\Administrator\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.4\\libraries\\Wire",
+                "C:\\Users\\Administrator\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.4\\libraries\\DNSServer",
+                "C:\\Users\\Administrator\\Documents\\Arduino\\libraries\\DS18B20\\src",
+                "C:\\Users\\Administrator\\Documents\\Arduino\\libraries\\DS18B20\\**",
+                "C:\\Users\\Administrator\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.4\\**"
+            ],
+            "forcedInclude": [],
+            "defines": [
+                "USBCON"
+            ],
+            "intelliSenseMode": "gcc-x86",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "compilerPath": "C:\\Program Files (x86)\\Arduino\\arduino.exe"
+        }
+    ],
+    "version": 4
+}
