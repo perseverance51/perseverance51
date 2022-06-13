@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Readeeprom",
+			"path": "..\\..\\Readeeprom"
+		},
+		{
+			"name": "Reeprom",
+			"path": "..\\..\\Reeprom"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"led_out.h": "c",
+			"8052.h": "c",
+			"8051.h": "c"
+		}
+	}
+}

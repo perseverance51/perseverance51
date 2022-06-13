@@ -1054,9 +1054,9 @@ void MovMind()
 {
   display.clear();
   unsigned int MINDMAX = 14;
-  unsigned int SSD1351_WIDTH = 64;
-  unsigned int SSD1351_HEIGHT = 128;
-  char Index;
+  // unsigned int SSD1351_WIDTH = 64;
+  // unsigned int SSD1351_HEIGHT = 128;
+  // char Index;
   typedef struct
   {
     float x;    //运动的思维点位横坐标
@@ -1068,7 +1068,7 @@ void MovMind()
   } MTMOVMIND;
   MTMOVMIND mtmovmind[MINDMAX];
 
-  int i, j;
+  unsigned int i, j;
   for (i = 0; i < MINDMAX; i++)
   {
     mtmovmind[i].x = rand() % 128;
